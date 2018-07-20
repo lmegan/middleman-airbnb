@@ -1,0 +1,21 @@
+.banner {
+  display: flex;
+  height: 90vh;
+  background-repeat: no-repeat;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+    h1 {
+      color: white;
+      font-size: 50px;
+    }
+    p {
+      font-size: 25px;
+      color: white;
+      opacity: 0.6;
+    }
+}
+
+.banner .form {
+  display: flex;
+}
